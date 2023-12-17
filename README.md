@@ -4,4 +4,4 @@
 
 [<img src="assets/background.png" alt="background image for profile"/>](https://www.linkedin.com/in/alina-listunova/)
 
-*There is a fine [taint](https://react.dev/reference/react/experimental_taintObjectReference) between front-end and back-end.*
+*P.S. Хай квітне українська локалізація.*
